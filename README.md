@@ -55,3 +55,10 @@ r
 
 ## Communication
 * [The Importance of Written Communication for Engineering Teams](https://www.toptal.com/engineering-management/written-communication-workplace)
+
+## Conferences
+
+## Tools
+
+## Communities
+* [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
