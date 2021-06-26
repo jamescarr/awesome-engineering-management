@@ -16,6 +16,7 @@ A curated list of awesome engineering management resources.
 1. [Three Random Questions](https://veryhappythings.github.io/101-questions/) - An interactive resource that plucks three random 1-1 questions from a list of 101.
 1. [The Update, The Vent, and The Disaster](https://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/) - Rands discusses the three buckets of 1:1s he typically encounters
 
+
 ## Team Charters
 1. [Writing a Team Charter](https://medium.com/bbc-design-engineering/writing-a-team-charter-9ba3292a9775)
 r
@@ -24,6 +25,7 @@ r
 1. [Gergely Nemeth - Team Charters](https://nemethgergely.com/blog/team-charters)
 1. [Mural - Team Charter](https://blog.mural.co/team-charter)
 1. [Design Culture Basics - Creating Your Team Charter - Interaction South America 2015](https://www.slideshare.net/runger/design-culture-basics-creating-your-team-charter-interaction-south-america-2015)
+
 
 ## Engineering Organization
 1. [Trifecta: How to maximize product teams’ impact](https://productcoalition.com/trifecta-product-teams-and-impact-f86f32b1f452)
@@ -34,16 +36,30 @@ r
 1. [Team Topologies](https://web.devopstopologies.com/) - A great online intro to the book, lays out several example toplogies. 
 1. [Sizing Engineering Teams](https://lethain.com/sizing-engineering-teams/)
 
+
 ## Blogs
-* [Rands In Repose](https://randsinrepose.com/archives/category/management/)
-* [The Engineering Manager](https://www.theengineeringmanager.com/)
+1. [Rands In Repose](https://randsinrepose.com/archives/category/management/)
+1. [The Engineering Manager](https://www.theengineeringmanager.com/)
+
 
 ## Podcasts
-* [Level Up Engineering](https://codingsans.com/engineering-management-podcast)
-* [Super Managers](https://fellow.app/supermanagers/)
-* [Manager Tools](https://www.manager-tools.com/all-podcasts) - Management in general, not just engineering. 
+1. [Level Up Engineering](https://codingsans.com/engineering-management-podcast)
+1. [Super Managers](https://fellow.app/supermanagers/)
+1. [Manager Tools](https://www.manager-tools.com/all-podcasts) - Management in general, not just engineering. 
+1. [The Manager's Handbook](https://open.spotify.com/show/71p58TpC9GUfEbW8AkWPIX?si=lotHr7cMQjKh2hTSS8rKOA&dl_branch=1)
+1. [Coching for Leaders](https://coachingforleaders.com/podcast/)
+1. [cto.coffee](https://cto.coffee/)
+1. [CTO Connection](https://podcast.ctoconnection.com/)
+
 
 ## Books
+1. [An Elegant Puzzle](https://blas.com/an-elegant-puzzle/)
+1. [Manager's Path](https://www.goodreads.com/book/show/33369254-the-manager-s-path) - Camile does a really great job in this book helping chart a career path for managers and how to constantly improve.
+1. [Radical Candor](https://www.goodreads.com/book/show/29939161-radical-candor) - If you can get past the SV name dropping, there are some worthwhile strategies on having an honest relationship with direct reports and approaching difficult conversations effectively. 
+1. [Turn the Ship Around](https://davidmarquet.com/turn-the-ship-around-book/)
+1. [Accelerate](https://www.goodreads.com/book/show/35747076-accelerate)
+1. [The First 90 Days](https://www.goodreads.com/book/show/15824358-the-first-90-days) - onboarding new engineers and engineering managers will set the stage for success. This book is essential reading for charting a good 90 day plan for new hires.
+
 
 ## Carreer Growth 
 1. [Progression.fyi](https://www.progression.fyi/)
@@ -53,12 +69,15 @@ r
 1. [Medium: Engineering growth: introduction](https://medium.com/s/engineering-growth-framework/engineering-growth-introduction-8ba7b78c8d6c)
 1. [Building a Technical Career Path at Spotify](https://engineering.atspotify.com/2016/02/08/technical-career-path/) - Spotify's Career growth framework
 
+
 ## Communication
-* [The Importance of Written Communication for Engineering Teams](https://www.toptal.com/engineering-management/written-communication-workplace)
+1. [The Importance of Written Communication for Engineering Teams](https://www.toptal.com/engineering-management/written-communication-workplace)
+
 
 ## Conferences
+1. [The Lead Developer](https://leaddev.com/)
 
-## Tools
 
 ## Communities
-* [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
+1. [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
+1. [Engineering Managers](https://engmanagers.github.io/)
