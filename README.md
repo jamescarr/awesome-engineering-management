@@ -39,6 +39,7 @@ r
 
 ## Blogs
 1. [Rands In Repose](https://randsinrepose.com/archives/category/management/)
+1. [Irrational Exuberance](https://lethain.com/tags/management/) - Will Larson's writings on management.
 1. [The Engineering Manager](https://www.theengineeringmanager.com/)
 
 
@@ -59,7 +60,7 @@ r
 1. [Turn the Ship Around](https://davidmarquet.com/turn-the-ship-around-book/)
 1. [Accelerate](https://www.goodreads.com/book/show/35747076-accelerate)
 1. [The First 90 Days](https://www.goodreads.com/book/show/15824358-the-first-90-days) - onboarding new engineers and engineering managers will set the stage for success. This book is essential reading for charting a good 90 day plan for new hires.
-
+1. [Rands Leadership Reading List](https://www.goodreads.com/list/show/142078.Rands_Leadership_Books_Reading_List) - as I was typing this list, I realized the awesome community already had a great reading curated reading list, so sharing here.
 
 ## Carreer Growth 
 1. [Progression.fyi](https://www.progression.fyi/)
