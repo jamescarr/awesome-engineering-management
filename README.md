@@ -1,6 +1,6 @@
 # Awesome Engineering Management [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome engineering management resources.
+A curated list of awesome engineering management resources to help you crack being an effetive leader!
 
 ## New to This
 If you're new to engineering management you likely have lots of questions and are unsure about 
