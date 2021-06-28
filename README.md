@@ -61,7 +61,7 @@ r
 1. [CTO Connection](https://podcast.ctoconnection.com/)
 1. [Scaling Software Teams](https://open.spotify.com/show/1oNuKMSBfLvhVTtMoYDbOC)
 1. [The People Stack Podcast](https://podcasts.apple.com/us/podcast/people-stack-podcast/id1128252178?mt=2) 
-1. [Manager's Club]([Apple Podcasts](https://podcasts.apple.com/us/podcast/people-stack-podcast/id1128252178?mt=2)
+1. [Manager's Club](https://podcasts.apple.com/us/podcast/people-stack-podcast/id1128252178?mt=2)
 1. [Reboot](https://open.spotify.com/show/5BdSBywd34C6ZyOhfdMPG4?si=642mXLJ1TMm4ROf-nx2Z8A) - highly recommended on the ups and downs of leadership. For me, I had a lot of struggles psychologically during the pandemic and this podcast had some great interviews and insights on handling it effectively.
 
 ## Books
