@@ -8,6 +8,7 @@ a lot of things. I know I was. I still am. Here's some links to posts I think ta
 new engineering managers. 
 
 * [Engineering Management: The Pendulum or the Ladder](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/)
+* [Surviving Your First Ninety Days as an Engineering Manager](https://engineering.sharethrough.com/blog/2015/11/04/surviving-your-first-ninety-days-as-an-engineering-manager/)
 
 ## 1-1s
 1. [Teplate for Effective 1-1s for Leaders](https://matangd.medium.com/template-for-effective-1on1-for-leaders-16b0dfd04554)
