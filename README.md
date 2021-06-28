@@ -54,6 +54,7 @@ r
 
 
 ## Books
+1. [Managing Humans](https://www.goodreads.com/book/show/1317946.Managing_Humans)
 1. [An Elegant Puzzle](https://blas.com/an-elegant-puzzle/)
 1. [Manager's Path](https://www.goodreads.com/book/show/33369254-the-manager-s-path) - Camile does a really great job in this book helping chart a career path for managers and how to constantly improve.
 1. [Radical Candor](https://www.goodreads.com/book/show/29939161-radical-candor) - If you can get past the SV name dropping, there are some worthwhile strategies on having an honest relationship with direct reports and approaching difficult conversations effectively. 
@@ -61,6 +62,7 @@ r
 1. [Accelerate](https://www.goodreads.com/book/show/35747076-accelerate)
 1. [The First 90 Days](https://www.goodreads.com/book/show/15824358-the-first-90-days) - onboarding new engineers and engineering managers will set the stage for success. This book is essential reading for charting a good 90 day plan for new hires.
 1. [Rands Leadership Reading List](https://www.goodreads.com/list/show/142078.Rands_Leadership_Books_Reading_List) - as I was typing this list, I realized the awesome community already had a great reading curated reading list, so sharing here.
+1. [Manager's Handbook](https://themanagershandbook.com/)
 
 ## Carreer Growth 
 1. [Progression.fyi](https://www.progression.fyi/)
@@ -69,7 +71,7 @@ r
 1. [LeadDev: Designing a growth framework for your engineering team](https://leaddev.com/career-paths-progression-promotion/designing-growth-framework-your-engineering-team)
 1. [Medium: Engineering growth: introduction](https://medium.com/s/engineering-growth-framework/engineering-growth-introduction-8ba7b78c8d6c)
 1. [Building a Technical Career Path at Spotify](https://engineering.atspotify.com/2016/02/08/technical-career-path/) - Spotify's Career growth framework
-
+1. [Engineering Ladder Link List](https://squeakyvessel.com/2016/07/11/engineering-ladders-links-elsewhere/) - Learn from others by exploring the various career ladders used by other tech companies that are collected here.
 
 ## Communication
 1. [The Importance of Written Communication for Engineering Teams](https://www.toptal.com/engineering-management/written-communication-workplace)
