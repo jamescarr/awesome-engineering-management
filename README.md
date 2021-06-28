@@ -2,6 +2,12 @@
 
 A curated list of awesome engineering management resources.
 
+## New to This
+If you're new to engineering management you likely have lots of questions and are unsure about 
+a lot of things. I know I was. I still am. Here's some links to posts I think target specifically 
+new engineering managers. 
+
+* [Engineering Management: The Pendulum or the Ladder](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/)
 
 ## 1-1s
 1. [Teplate for Effective 1-1s for Leaders](https://matangd.medium.com/template-for-effective-1on1-for-leaders-16b0dfd04554)
