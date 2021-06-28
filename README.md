@@ -53,6 +53,7 @@ r
 ## Podcasts
 1. [Level Up Engineering](https://codingsans.com/engineering-management-podcast)
 1. [Super Managers](https://fellow.app/supermanagers/)
+1. [Decisive Moments for Engineering Leaders](https://podcasts.apple.com/us/podcast/decisive-moments-for-engineering-leaders/id1489429177)
 1. [Manager Tools](https://www.manager-tools.com/all-podcasts) - Management in general, not just engineering. 
 1. [The Manager's Handbook](https://open.spotify.com/show/71p58TpC9GUfEbW8AkWPIX?si=lotHr7cMQjKh2hTSS8rKOA&dl_branch=1)
 1. [Coching for Leaders](https://coachingforleaders.com/podcast/)
