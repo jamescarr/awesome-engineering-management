@@ -59,6 +59,9 @@ r
 1. [Coching for Leaders](https://coachingforleaders.com/podcast/)
 1. [cto.coffee](https://cto.coffee/)
 1. [CTO Connection](https://podcast.ctoconnection.com/)
+1. [Scaling Software Teams](https://open.spotify.com/show/1oNuKMSBfLvhVTtMoYDbOC)
+1. [The People Stack Podcast]([Apple Podcasts](https://podcasts.apple.com/us/podcast/people-stack-podcast/id1128252178?mt=2) | [Spotify](https://open.spotify.com/show/2QChPwR0tHf7Yyoh8qwUBj?si=puwh7qfkSGitRbg2mN71Vw)
+1. [Manager's Club]([Apple Podcasts](https://podcasts.apple.com/us/podcast/people-stack-podcast/id1128252178?mt=2) | [Spotify](https://open.spotify.com/show/2QChPwR0tHf7Yyoh8qwUBj?si=puwh7qfkSGitRbg2mN71Vw)
 
 
 ## Books
