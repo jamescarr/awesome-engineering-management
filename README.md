@@ -62,7 +62,7 @@ r
 1. [Scaling Software Teams](https://open.spotify.com/show/1oNuKMSBfLvhVTtMoYDbOC)
 1. [The People Stack Podcast]([Apple Podcasts](https://podcasts.apple.com/us/podcast/people-stack-podcast/id1128252178?mt=2) | [Spotify](https://open.spotify.com/show/2QChPwR0tHf7Yyoh8qwUBj?si=puwh7qfkSGitRbg2mN71Vw)
 1. [Manager's Club]([Apple Podcasts](https://podcasts.apple.com/us/podcast/people-stack-podcast/id1128252178?mt=2) | [Spotify](https://open.spotify.com/show/2QChPwR0tHf7Yyoh8qwUBj?si=puwh7qfkSGitRbg2mN71Vw)
-
+1. [Reboot](https://open.spotify.com/show/5BdSBywd34C6ZyOhfdMPG4?si=642mXLJ1TMm4ROf-nx2Z8A) - highly reommended on the ups and downs of leadership. For me, I had a lot of struggles psychologically during the pandemic and this podcast had some great interviews and insights on handling it effectively.
 
 ## Books
 1. [Managing Humans](https://www.goodreads.com/book/show/1317946.Managing_Humans)
@@ -91,7 +91,9 @@ r
 ## Conferences
 1. [The Lead Developer](https://leaddev.com/)
 
-
 ## Communities
 1. [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
 1. [Engineering Managers](https://engmanagers.github.io/)
+
+## Other Lists 
+* [The Leadership Library for Engineers](https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a) - a pretty incredible resource that I came across while researching for more content to put in this list. 
