@@ -54,10 +54,11 @@ r
 
 ## Onboarding
 Having a good 90 day plan is a recipe for success at all levels. Here is a collection of resources and templates.
+1. [Awesome Onboarding](https://github.com/92bondstreet/awesome-onboarding) - a huge collection of onboarding resources that I won't repeat here.
 
 ### Executive Onboarding
-* [90 Day Plan (VP of Engineering](https://docs.google.com/spreadsheets/d/1wHII6ojzLbsIR6rb8Cb-W0aa4-ETbwGYUsHOp5AXPhg/edit?usp=sharing) - a template for a VP of Engineering
-* [Shishar's Tips for Executive Onboarding](https://coda.io/@shishir/executive-onboarding)
+1. [90 Day Plan (VP of Engineering](https://docs.google.com/spreadsheets/d/1wHII6ojzLbsIR6rb8Cb-W0aa4-ETbwGYUsHOp5AXPhg/edit?usp=sharing) - a template for a VP of Engineering
+1. [Shishar's Tips for Executive Onboarding](https://coda.io/@shishir/executive-onboarding)
 
 
 ## Podcasts
