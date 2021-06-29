@@ -52,6 +52,11 @@ r
 1. [The Engineering Manager](https://www.theengineeringmanager.com/)
 
 
+## 30 / 60 / 90 Day Plans
+Having a good 90 day plan is a recipe for success at all levels. Here is a collection of resources and templates.
+* [90 Day Plan (VP of Engineering](https://docs.google.com/spreadsheets/d/1wHII6ojzLbsIR6rb8Cb-W0aa4-ETbwGYUsHOp5AXPhg/edit?usp=sharing) - a template for a VP of Engineering
+
+
 ## Podcasts
 1. [Level Up Engineering](https://codingsans.com/engineering-management-podcast)
 1. [Super Managers](https://fellow.app/supermanagers/)
