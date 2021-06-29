@@ -7,8 +7,10 @@ If you're new to engineering management you likely have lots of questions and ar
 a lot of things. I know I was. I still am. Here's some links to posts I think target specifically 
 new engineering managers. 
 
-* [Engineering Management: The Pendulum or the Ladder](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/)
-* [Surviving Your First Ninety Days as an Engineering Manager](https://engineering.sharethrough.com/blog/2015/11/04/surviving-your-first-ninety-days-as-an-engineering-manager/)
+1. [Engineering Management: The Pendulum or the Ladder](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/)
+1. [Surviving Your First Ninety Days as an Engineering Manager](https://engineering.sharethrough.com/blog/2015/11/04/surviving-your-first-ninety-days-as-an-engineering-manager/)
+1. [This 90-Day Plan Turns Engineers into Remarkable Managers](https://review.firstround.com/this-90-day-plan-turns-engineers-into-remarkable-managers)
+1. [Do I truly want to become a manager?](https://knowyourteam.com/blog/2019/03/20/do-i-truly-want-to-become-a-manager/)
 
 ## 1-1s
 1. [Teplate for Effective 1-1s for Leaders](https://matangd.medium.com/template-for-effective-1on1-for-leaders-16b0dfd04554)
