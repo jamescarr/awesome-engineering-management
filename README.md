@@ -13,6 +13,7 @@ new engineering managers.
 1. [Do I truly want to become a manager?](https://knowyourteam.com/blog/2019/03/20/do-i-truly-want-to-become-a-manager/)
 
 ## 1-1s
+1. [Art of the Akward 1-1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c)
 1. [Teplate for Effective 1-1s for Leaders](https://matangd.medium.com/template-for-effective-1on1-for-leaders-16b0dfd04554)
 1. [Lara Hogan: First 1-1 Questions](https://larahogan.me/blog/first-one-on-one-questions/)
 1. [5 One-on-One Templates for Effective Managers](https://uptickapp.com/blog/5-one-on-one-meeting-templates-for-effective-managers)
@@ -54,8 +55,6 @@ r
 
 ## Onboarding
 Having a good 90 day plan is a recipe for success at all levels. Here is a collection of resources and templates.
-1. [Awesome Onboarding](https://github.com/92bondstreet/awesome-onboarding) - a huge collection of onboarding resources that I won't repeat here.
-
 ### Executive Onboarding
 1. [90 Day Plan (VP of Engineering](https://docs.google.com/spreadsheets/d/1wHII6ojzLbsIR6rb8Cb-W0aa4-ETbwGYUsHOp5AXPhg/edit?usp=sharing) - a template for a VP of Engineering
 1. [Shishar's Tips for Executive Onboarding](https://coda.io/@shishir/executive-onboarding)
